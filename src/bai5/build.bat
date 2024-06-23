@@ -1,0 +1,1 @@
+gcc  bai5.c -o bai5 -Wall -Wextra -Wconversion
