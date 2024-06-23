@@ -1,0 +1,1 @@
+gcc  bai8.c -o bai8 -Wall -Wextra -Wconversion
