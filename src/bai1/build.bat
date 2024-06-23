@@ -1,0 +1,1 @@
+gcc src/client/client.c src/network/network.c src/server/server.c src/data.c main.c -o program -Ilib -Wall -Wextra -O3
