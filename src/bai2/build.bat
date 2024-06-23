@@ -1,0 +1,1 @@
+gcc  bai22.c -o bai22 -Wall -Wextra -Wconversion
